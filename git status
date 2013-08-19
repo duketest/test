@@ -1,0 +1,12 @@
+[1mdiff --git a/index.php b/index.php[m
+[1mindex 94e501c..f835c30 100644[m
+[1m--- a/index.php[m
+[1m+++ b/index.php[m
+[36m@@ -9,5 +9,6 @@[m
+ 		Ut urna justo, placerat vel tempor nec, vestibulum in lacus. Sed mi orci, hendrerit quis hendrerit eget, pharetra eget nunc. Maecenas sodales tincidunt facilisis. Cras vulputate est sit amet pretium auctor. Donec in mi eu nibh tristique egestas. Nunc ut pretium diam. Nulla vestibulum semper accumsan. Vivamus sit amet est aliquet, malesuada eros ut, placerat mi. Praesent posuere lobortis justo vel dictum. Cras viverra faucibus nibh quis molestie.[m
+ 	</p>[m
+ 	<p>test</p>[m
+[32m+[m	[32m<p>test 2</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
