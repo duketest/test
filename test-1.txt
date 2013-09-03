@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-njkdcnjkncjkdk
-=======
-test-1.txtvfv
->>>>>>> 6421488efa6bc2cbddd069a892498ed8dbdd98ab
+test3 text
