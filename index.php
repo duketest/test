@@ -10,6 +10,6 @@
 	</p>
 	<p>test</p>
 	<p>test 2</p>
-	<p>test 3 update</p>
+	<p>test3 update</p>
 </body>
 </html>
